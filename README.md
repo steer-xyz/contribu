@@ -70,5 +70,7 @@ uv run contribu find-repos
 ## 🙌 Contributions
 This project is still early, but if it resonates with you — ideas, feedback, or even a PR are welcome. Hit me up!
 
-##👋 About Me
+---
+
+## 👋 Contributions
 I'm a technical senior data analyst at a private real estate investment firm called Faropoint, focusing on investment and market research. Pasisonate about AI engineering and looking to enroll in grad school in the near future. You can find me at steerxyz.bearblog.dev or on X @steerdev.
