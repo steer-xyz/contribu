@@ -1,3 +1,6 @@
+###
+Semi-Abondoned, might make it into a web app with an agent but not really sure yet how to differentiate it from just using cursor or claude code... rip
+
 # 🧠 ConTribu
 
 **Find. Contribute. Network.**
